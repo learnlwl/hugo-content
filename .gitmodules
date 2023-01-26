@@ -1,0 +1,4 @@
+[submodule "learnlanguageswithlyrics/public"]
+	path = learnlanguageswithlyrics/public
+	url = https://github.com/learnlwl/learnlwl.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://learnlwl.github.io/'
+languageCode = 'en-us'
+title = 'Learn Languages With Lyrics'
+theme = 'hugo-book'
